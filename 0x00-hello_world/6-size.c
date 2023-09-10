@@ -25,4 +25,3 @@ sizeof(float));
 
 	return (0);
 }
-
