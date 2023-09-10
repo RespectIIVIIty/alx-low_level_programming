@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- * main - Prints "and that piece of art is useful" - Dora Korpar, 2015-10-19",
+ * main - this is the main function
  *
  * Return: 1 when successful
  */
@@ -11,5 +11,6 @@ int main(void)
 "and that piece of art is useful" - Dora Korpar, 2015-10-19\n"
 ,
 		59);
+
 	return (1);
 }
