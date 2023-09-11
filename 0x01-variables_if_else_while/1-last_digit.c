@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - this is the main function
+ * main - this function is to know the last number
  *
- * Return: O when successful
+ * Return: zero when program runs successful
  */
 int main(void)
 {
